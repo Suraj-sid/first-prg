@@ -1,3 +1,4 @@
+
 user=input("enter the password :")
 alpha=""
 digit=""
@@ -13,3 +14,5 @@ if len(alpha)>=2 and len(digit)==1 and len(special)==1:
   print("valid")
 else:
   print("invalid")
+
+# len= count character
